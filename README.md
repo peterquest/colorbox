@@ -5,5 +5,5 @@ A script that monitors twitter for color suggestions and feeds them to an RGB le
 
 ### To Do:
 
-- [] Add option for GPIO inputs (rgb buttons!)
+- Add option for GPIO inputs (rgb buttons!)
 
